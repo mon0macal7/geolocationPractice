@@ -1,0 +1,14 @@
+
+body{
+    background-image: url(https://www.atispain.com/blog/wp-content/uploads/2018/09/gps-800x445.png);
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+    text-align: center;
+   
+}
